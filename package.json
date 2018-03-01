@@ -1,0 +1,11 @@
+{
+	"name": "spinitron_csv_parser",
+	"version": "1.0.0",
+	"description": "parses a spinitron radio csv file into workable objects",
+	"main": "index.js",
+	"author": "Bijan Farahani",
+	"license": "MIT",
+	"dependenecies": {
+		"node-csv-parse"
+	}
+}
